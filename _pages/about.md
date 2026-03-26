@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: "AI Assistant - VAR is offline"
+title: "AI Assistant - VAR is offline, try again later ..."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Currently the server for AI Assistant - VAR is offline ... 
 ======
 
