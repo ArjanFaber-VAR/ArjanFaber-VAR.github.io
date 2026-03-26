@@ -24,8 +24,8 @@ repository               : "ArjanFaber-VAR/ArjanFaber-VAR.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Arjan"
-  pronouns         : "he/him"  
+  name             : ""
+  pronouns         : ""  
   bio              : ""
   location         : "Earth"
   employer         : "Van Amersfoort Racing"
